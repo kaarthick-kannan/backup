@@ -1,0 +1,12 @@
+1. DataStructues And algorithms (collections All)
+2. Design patterns
+3. Functional programming
+4. Sping Boot
+5. Microservices
+6. Maven
+7. JVM archetecture
+8. spring transactions
+9. All sorting algorithms
+10. web and application server
+11. Multithreading
+12. Reactive programming
